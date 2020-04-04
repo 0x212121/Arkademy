@@ -19,4 +19,4 @@ def findDuplicates(letter=None):
     if repeat == False:
         print("Tidak ada karakter berulang")
 
-findDuplicates()
+findDuplicates("di rumah aja, jangan kemana-mana")
